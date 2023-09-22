@@ -11,9 +11,4 @@ export class AppComponent {
     return n*2;
   }
 
-pelicula={
-  titulo:'Cantinflas show',
-  fechadeLanzamiento:'19 septiembre 2023',
-  precio: 200
-}
 }
